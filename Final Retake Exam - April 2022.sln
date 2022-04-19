@@ -1,0 +1,61 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31829.152
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Final Retake Exam - April 2022", "Final Retake Exam - April 2022\Final Retake Exam - April 2022.csproj", "{A9B534D5-A1DA-43FA-8F01-22C71402EFC0}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "FirstProblem", "FirstProblem\FirstProblem.csproj", "{91A1D582-667B-4E42-97BF-D7FF74BD2B1A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "SecondProblem", "SecondProblem\SecondProblem.csproj", "{D70EA1F9-9BA2-415F-A51A-B8F34F215123}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ThirdProblem", "ThirdProblem\ThirdProblem.csproj", "{3784068A-F707-47FB-9643-7E51B02941B9}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp1", "ConsoleApp1\ConsoleApp1.csproj", "{41EFA194-FE49-460A-9D48-E0B8ED20002E}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. P!rates", "03. P!rates\03. P!rates.csproj", "{0FFA6A1B-B44F-4FB5-B3FB-73A2AFB61F17}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Company Users", "08. Company Users\08. Company Users.csproj", "{4DBC08CA-3422-462B-8484-1BB4BDD80D27}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A9B534D5-A1DA-43FA-8F01-22C71402EFC0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A9B534D5-A1DA-43FA-8F01-22C71402EFC0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A9B534D5-A1DA-43FA-8F01-22C71402EFC0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A9B534D5-A1DA-43FA-8F01-22C71402EFC0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{91A1D582-667B-4E42-97BF-D7FF74BD2B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{91A1D582-667B-4E42-97BF-D7FF74BD2B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{91A1D582-667B-4E42-97BF-D7FF74BD2B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{91A1D582-667B-4E42-97BF-D7FF74BD2B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D70EA1F9-9BA2-415F-A51A-B8F34F215123}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D70EA1F9-9BA2-415F-A51A-B8F34F215123}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D70EA1F9-9BA2-415F-A51A-B8F34F215123}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D70EA1F9-9BA2-415F-A51A-B8F34F215123}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3784068A-F707-47FB-9643-7E51B02941B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3784068A-F707-47FB-9643-7E51B02941B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3784068A-F707-47FB-9643-7E51B02941B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3784068A-F707-47FB-9643-7E51B02941B9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{41EFA194-FE49-460A-9D48-E0B8ED20002E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{41EFA194-FE49-460A-9D48-E0B8ED20002E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{41EFA194-FE49-460A-9D48-E0B8ED20002E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{41EFA194-FE49-460A-9D48-E0B8ED20002E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FFA6A1B-B44F-4FB5-B3FB-73A2AFB61F17}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FFA6A1B-B44F-4FB5-B3FB-73A2AFB61F17}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FFA6A1B-B44F-4FB5-B3FB-73A2AFB61F17}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FFA6A1B-B44F-4FB5-B3FB-73A2AFB61F17}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4DBC08CA-3422-462B-8484-1BB4BDD80D27}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4DBC08CA-3422-462B-8484-1BB4BDD80D27}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4DBC08CA-3422-462B-8484-1BB4BDD80D27}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4DBC08CA-3422-462B-8484-1BB4BDD80D27}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5473D7D0-B625-4747-93F0-42FC54636546}
+	EndGlobalSection
+EndGlobal
